@@ -9,5 +9,11 @@
   Computer Science contribes to Aviation safety through software and information systems. Computer Science in used to gather data and help prevent crashes like the one described. This kind of machine learning can minimize the effort needed to predict weather outcomes and help design succesful flight paths. Certain code can quickly asses concerns and hazards on  flight, all while the pilot focuses on operations.
  
   Another factor of Avition Safety is A.I. A.I. is often used in the terms of auto pilot. The Plane can optimize the flitght pattern while maintaing the plane's speed. All of this can be done with minimal human intervention, allowing pilots to spend more time on comms. Since Pilots may have more time to focus on all aspects of a plane, flights can be safer.
-# February 4, 2025
-
+# February 11, 2025
+| Shape       | Color       |Count        |
+| ----------- | ----------- |-------------|
+| Circle      | Green       | 7           |
+| Square      | Yellow      | 5           |
+| Hexagon     | Brown       | 6           |
+| Triangle    | Purple      | 4           |
+| Octagon     | Red         | 3           |
