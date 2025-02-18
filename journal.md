@@ -18,4 +18,6 @@
 | Triangle    | Purple      | 4           |
 | Octagon     | Red         | 3           |
 # February 18, 2025
-I would say that the most interesting thing I learned last week was how to accuratley make text follow someones face in a video. I learned this bny watching some tutorials on youtube. I later used this knowledge to make a new video edit to post on my social media.
+I would say that the most interesting thing I learned last week was how to accuratley make text follow someones face in a video. 
+I learned this bny watching some tutorials on youtube. I later used this knowledge to make a new video edit to post on my social media.
+This was so interesting to me because it is something I had wanted to learn for a while.
