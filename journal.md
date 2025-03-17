@@ -32,3 +32,7 @@ Slang use in youth is an important part of exspressing emotion and ideas. When c
 | Thorne      | Invisibility        | Underwater Rescue    |
 | Silver      | Mind Control        | Retreive Stolen Goods|
 | Tangier     | Shapeshifting       | Extract Prisoner     |
+# March 3, 2025
+Over the break technology was my main passtime. I spent most of my days playing video games like Mortal Kombat and Roblox. When I wasn't playing games, I was catching up on the Harley Quinn show, or my favorite youtuber's videos. I was at home relaxing for a lot of the break, and some of that included using massage aid technology. 
+("\n")
+I did not spend my whole break at home. I went out to the arcade with my family and of course that included technology. There were times I went to eat out and used electronic menus. Even when I went to Natural Bridge Caverns, the most nature filled experience, I used technology to record videos of the animals. It seems like every step of my break I used technology, and I start to wonder when it becomes too much.
