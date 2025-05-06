@@ -50,9 +50,10 @@ I beleive that AI is a helpful study tool for all students. AI provides reliable
 Social Media is how students express themselves. Apps like Tiktok can be a lifeline for kids, or another way to connect with friends. As a kid, when im free I spend a lot of time on social media. I look at what my friends are doing, what they're sending me, or what they're watching. Being a teen in school can feel iscolating. Sometimes it feels like no one gets you and Social Media is what can get you through. Just one friend you connect to online can chnage your life. For these reasons, Social Media should not be banned at school. (/n) Without Social Media teens are at a big loss. Messaging friends can be a way to releive anxiety or stress. Even though it may be distracting, it shoulnd't be banned all together. There are times of the day when kids should use phones, like at lunch. When you do not have many friends, going through the day withouht a way to talk to someone you trust can be really hurtful. Social Media can be a distraction, but it is really important to some kids ans shouldn't be taken away.
 # April 22, 2025
 Appreciation email.
-# April, 28, 2025
+# April 28, 2025
 | Name        | Flavor              |Ocassion              |Price           |
 | ----------- | --------------------|----------------------|----------------|
 | Sally       | Chocolate           | Graduation           | $35.00         |
 | Michael     | Vanilla             | Farewell Party       | $37.00         |
 | Emma        | Carrot              | Birthday             | $39.00         |
+# May 5, 2025
