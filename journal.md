@@ -94,3 +94,6 @@ This summer, there was a song on social media made by a basketball star where he
  
 # October 6, 2025
 If I was in charge of my school, I would be allow games technology, and AI to a certain extent. I believe that videogames are great for when you finish your work. Phones are important for contacting your family, and for safety; furthermore, they are great for our downtime. No student likes to sit in a quiet classroom and do nothing after fisnishing their work. It can be unmotivating to sit down and do nothing, and for that reason I would allow games; although, they would have to be monitored to make sure kids are still getting work done. I would also allow the use of A.I. for generating ideas and for things like self quizzing or simply to ask a detailed question. A.I. cam be a powerful learning tool when used with integrity. Technology overall can be very helpful during a students learning proccess and its better to adapt to it rather than restrict it, encouraging kids to rebel.
+
+# October 14, 2025
+https://evanderschoiressentials.my.canva.site/ 
