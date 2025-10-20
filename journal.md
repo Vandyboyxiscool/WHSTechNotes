@@ -98,3 +98,11 @@ If I was in charge of my school, I would be allow games technology, and AI to a 
 # October 14, 2025
 https://evanderschoiressentials.my.canva.site/ 
 My prompt was designed to make a vibrant and fun infographic that is interactive and explains essential choir knowledge to high-school students. Canva interpreted that as adding bouncy elements and a lot of emojis. The interactive parts that worked best were the quizzes; moreover, the clickable elemts as a whole were crafted precisely. The quizzes had a score at the end and told you when you got a question wrong, which was surprising as I was not specific with that in the script. Next time I would improve my prompt by telling the A.I. exactly which information to implement by either typing out what I want included or provided approved websites to draw information from. I would also improve my prompt by providing a specific color scheme to make the design better.
+
+# October 20, 2025
+| Name        | Class       |Seat         |
+| ----------- | ----------- |-------------|
+| Franklin    | Second      | 91A         |
+| Hardeep     | Thrid       | 61F         |
+| Marla       | First       | 35B         |
+
