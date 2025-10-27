@@ -107,8 +107,8 @@ My prompt was designed to make a vibrant and fun infographic that is interactive
 | Marla       | First       | 35B         |
 
 # October 27, 2025
-| Name        | Main Dish   | Dessert     |
-| ----------- | ----------- |-------------|
+| Name        | Main Dish      | Dessert           |
+| ----------- | -------------- |-------------------|
 | Fiona       | Gado Gado	     | Creme Brulee      |
 | Tobias      | Shrimp Ceviche | French Apple Cake |
 | Leanne      | Beef Wellington| Raspberry Tiramisu|
