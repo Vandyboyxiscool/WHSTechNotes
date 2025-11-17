@@ -113,3 +113,5 @@ My prompt was designed to make a vibrant and fun infographic that is interactive
 | Tobias      | Shrimp Ceviche | French Apple Cake |
 | Leanne      | Beef Wellington| Raspberry Tiramisu|
 
+# November 17, 2025
+Yes I am looking forward to Thanksgiving Break. This break will give me long needed rest from school and allow me to spend time with my family.
