@@ -113,5 +113,8 @@ My prompt was designed to make a vibrant and fun infographic that is interactive
 | Tobias      | Shrimp Ceviche | French Apple Cake |
 | Leanne      | Beef Wellington| Raspberry Tiramisu|
 
+# November 10, 2025
+This semester has been a challenge for me both mentally and spiritually. I've grown and learned from my struggle though. I learned that doing the things that make me happy is very important for my success in school. I can sometimes get so overworked with school that I stop making time to do the things I like, and I feel so overworked that I let myself put other things over my happiness. This semester wasn't all bad though, I had fun, and this year has been the best year i've had in a long time. Now that i've grown from my experiences so far fall term, I feel more prepared than ever to tackle this year in the spring.
+
 # November 17, 2025
 Yes I am looking forward to Thanksgiving Break. This break will give me long needed rest from school and allow me to spend time with my family.
