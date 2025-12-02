@@ -118,3 +118,6 @@ This semester has been a challenge for me both mentally and spiritually. I've gr
 
 # November 17, 2025
 Yes I am looking forward to Thanksgiving Break. This break will give me long needed rest from school and allow me to spend time with my family.
+
+# December 1, 2025
+One job that uses drones is Real Estate Photagraphy. People who do this job use drones to capture ground level and aerial photographs of properties. Programmers would typically use code to make drone flight planning apps, and even virtual tours for this job. In Texas, the average salary for this job is $61,775, with salaries ranging from $50,000 to $80,000 per year, according to ziprecruiter.com. Certifications for this job include obtaining the Part 107 certificate, or Remote Pilot License, and having experience in phot and video editing software like Adobe Photoshop, Premiere Pro, and After Effects. Personally, I would enjoy doing this job in the future as it alligns with some of my current interests, although it is definetly not my firsrt choice of proffession. 
