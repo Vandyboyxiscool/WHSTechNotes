@@ -127,3 +127,6 @@ The Waymo self driving cars are a great innovation in automated driving, but the
 
 # Decmeber 15, 2025
 This Winter Break I plan to spend a lot of time with my family, and friends. I'm looking forward to enjoying the silence and rest knowing that I have no upcoming assingments to due. I will be doing a lot of reading and journaling, and just get to the things i've been putting off while busy with school.
+
+# January 6, 2025
+Over the winter break, I used my phone to watch tv and play games like Roblox. For Christmas my brother got me a ps5, which I used to play video games like Fortnite. I often spent time on my tv, watching the new season of Stranger things, and having discussions about the season on TikTok live. Overall, technology played an important role in my Winter Break. The things i did to pass time mostly involved technology.
