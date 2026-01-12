@@ -130,3 +130,6 @@ This Winter Break I plan to spend a lot of time with my family, and friends. I'm
 
 # January 6, 2025
 Over the winter break, I used my phone to watch tv and play games like Roblox. For Christmas my brother got me a ps5, which I used to play video games like Fortnite. I often spent time on my tv, watching the new season of Stranger things, and having discussions about the season on TikTok live. Overall, technology played an important role in my Winter Break. The things i did to pass time mostly involved technology.
+
+# January 12, 2025
+The Minecraft server Autcraft was created to make a safe space for nuerodivergent individuals. It was important for Autcraft to be created because it helped tackle the issue of online bullying, and helped make Minecraft more inclusive to all players. Many games foster environments that are toxic and hateful. In these games, people with Autism, for example, are main targets of hate speech and cyberbullying. By creating safe spaces like Autcraft, the internet can be made more welcoming and supportive of all people, not just nuero-typicals. Developers have a responsibility to maintain these spaces and further create more as they effect real people behind the screen. We often forget how online interactions effect real life people, and by creating these spaces we can protect unsuspecting individuals from hate.
