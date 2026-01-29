@@ -128,11 +128,14 @@ The Waymo self driving cars are a great innovation in automated driving, but the
 # Decmeber 15, 2025
 This Winter Break I plan to spend a lot of time with my family, and friends. I'm looking forward to enjoying the silence and rest knowing that I have no upcoming assingments to due. I will be doing a lot of reading and journaling, and just get to the things i've been putting off while busy with school.
 
-# January 6, 2025
+# January 6, 2026
 Over the winter break, I used my phone to watch tv and play games like Roblox. For Christmas my brother got me a ps5, which I used to play video games like Fortnite. I often spent time on my tv, watching the new season of Stranger things, and having discussions about the season on TikTok live. Overall, technology played an important role in my Winter Break. The things i did to pass time mostly involved technology.
 
-# January 12, 2025
+# January 12, 2026
 The Minecraft server Autcraft was created to make a safe space for nuerodivergent individuals. It was important for Autcraft to be created because it helped tackle the issue of online bullying, and helped make Minecraft more inclusive to all players. Many games foster environments that are toxic and hateful. In these games, people with Autism, for example, are main targets of hate speech and cyberbullying. By creating safe spaces like Autcraft, the internet can be made more welcoming and supportive of all people, not just nuero-typicals. Developers have a responsibility to maintain these spaces and further create more as they effect real people behind the screen. We often forget how online interactions effect real life people, and by creating these spaces we can protect unsuspecting individuals from hate.
 
-# January 23, 2025
+# January 23, 2026
 Technology helps to create a more fair and just society by promoting discussion of prominent issues and encouraging connectivity across opposites of the world. When you go on social media apps like Tiktok you see people from all around the world and learn about all about their lives; including, their issues. With this we learn about issues that may not be reported about on news or maybe you can another perspective. For example, the current conflict going on between Israel and Palestine is talked about a lot on social media, and viewers have the oppurtunity to see the day to day struggles of the affected people, something you might not have seen without social media. Technology's way of connecting people on issues is one way changes are pushed, and in turn, creating a more just society.
+
+# January 29, 2026
+I did not test this week as i already passed my exams.
