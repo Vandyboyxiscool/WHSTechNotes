@@ -142,3 +142,6 @@ I did not test this week as i already passed my exams.
 
 # February 2, 2026
 When in shared spaces, it is important to maintain personal hygiene and self-care because it shows respect for those around you, and the environment. When someone has a foul smell, or leaves a mess behind them it can be distacting for others. No one wants to be around uncleanliness, or clean up after someone else. Some behavorial expectations for shared spaces are practicing mindfulness, compassion, picking up after yourself, maintaing hygiene, and practing self control. If you can be mature and respectul to the shared space, and others in it, the space will be far more productive. One habit that i can personally improve on is how much space i take up. Often times I might spread my papers across a table, and forget that others might want to use the space as well, and might not be comfortable with asking me to make more room.
+
+# February 10, 2026
+I personally do not enjoy Football very much. I am not against Football, but it is not something that can keepy my attention. I did not watch the Super Bowl LX
