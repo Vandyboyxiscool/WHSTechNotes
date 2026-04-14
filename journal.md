@@ -147,7 +147,11 @@ When in shared spaces, it is important to maintain personal hygiene and self-car
 I personally do not enjoy Football very much. I am not against Football, but it is not something that can keepy my attention. I did not watch the Super Bowl LX
 
 # March 23, 2026
-,
+I chose my brackets by using data like win history and also recent talent, along with personal bias.
+Something that surprised me was that UCLA was knocked out so early again.
+Using data can help improve predictions by allowing you to make an educated giess rather than an emotional one.
+A computer program could use the data better than a human as it can cross check multipule sources more efficiently than a human.
+A tech job that would involve using data like this is a Sports Data Analyst.
 
 # March 30, 2026
 ,
