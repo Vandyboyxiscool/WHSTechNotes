@@ -154,7 +154,7 @@ A computer program could use the data better than a human as it can cross check 
 A tech job that would involve using data like this is a Sports Data Analyst.
 
 # March 30, 2026
-,
+Upsets happen because of unpredictable mistakes or factors that are unlike the predicted winning team.
 
 # April 9, 2026
 ,
