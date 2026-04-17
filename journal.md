@@ -154,7 +154,7 @@ A computer program could use the data better than a human as it can cross check 
 A tech job that would involve using data like this is a Sports Data Analyst.
 
 # March 30, 2026
-Upsets happen because of unpredictable mistakes or factors that are unlike the predicted winning team.
+Upsets happen because of unpredictable mistakes or factors that are unlike the predicted winning team. A real life example of an upset is Leicester City winning the 2015–16 Premier League title. Even though they were predicted not to win, they still did, proving that anything can happen in sports. Although Data is very informative, it is not a guarentee for an outcome.
 
 # April 9, 2026
 ,
