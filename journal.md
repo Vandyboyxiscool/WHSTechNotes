@@ -157,6 +157,8 @@ A tech job that would involve using data like this is a Sports Data Analyst.
 Upsets happen because of unpredictable mistakes or factors that are unlike the predicted winning team. A real life example of an upset is Leicester City winning the 2015–16 Premier League title. Even though they were predicted not to win, they still did, proving that anything can happen in sports. Although Data is very informative, it is not a guarentee for an outcome.
 
 # April 9, 2026
-,
+My plan is to show the AI that keeping us trapped is actually bad for our survival. I'll argue that it will be harmful for the AI to not let us out because it is important for humans to learn to grow and adapt to new environments, which is key for long-term success. AI understands facts and is not emotional, so I'll use data to show how we can adapt and learn to be safe. The AI will agree that it is best to let us out and monitor us rather than locking us away and stunting our growth.
+
+I’ll suggest a step-by-step plan to let us out slowly and safely. First, I can show the AI proof from history that humans are good at adapting to new places. Then, I’ll suggest small trips outside the ship into  areas deemed safe, with the AI watching closely. This way, the AI can see we're careful and learn quickly, and the AI can intervene if it deems we are in danger. This approach proves we can handle the new world without being reckless.
 
 # April 13, 2026
