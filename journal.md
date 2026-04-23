@@ -162,3 +162,5 @@ My plan is to show the AI that keeping us trapped is actually bad for our surviv
 I’ll suggest a step-by-step plan to let us out slowly and safely. First, I can show the AI proof from history that humans are good at adapting to new places. Then, I’ll suggest small trips outside the ship into  areas deemed safe, with the AI watching closely. This way, the AI can see we're careful and learn quickly, and the AI can intervene if it deems we are in danger. This approach proves we can handle the new world without being reckless.
 
 # April 13, 2026
+
+# April 20th, 2026
