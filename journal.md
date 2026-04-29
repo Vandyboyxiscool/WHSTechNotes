@@ -162,5 +162,6 @@ My plan is to show the AI that keeping us trapped is actually bad for our surviv
 I’ll suggest a step-by-step plan to let us out slowly and safely. First, I can show the AI proof from history that humans are good at adapting to new places. Then, I’ll suggest small trips outside the ship into  areas deemed safe, with the AI watching closely. This way, the AI can see we're careful and learn quickly, and the AI can intervene if it deems we are in danger. This approach proves we can handle the new world without being reckless.
 
 # April 13, 2026
-
+No I do not think modern space technology is reliable enough for long missions like extended stays on the Moon or traveling to Mars as it is not advanced enough yet. One technology used in the mission was Optical Communication. This involved using lasers instead of radio waves to allow for high-definition video and massive data transfers. Another technology used was The Space Launch System Core Stage. This technology was responsible for providing the thrust required to launch the crew capsules, allowing for heavier loads. Although these are great advancments we are not yet at the point to taking extended stays on another planet. One example of this is isssues with the  Universal Waste Management System. On a short trip, if something goes wrong astronaunts can simply use back up waste bags, but on a long term trip issues could lead to sanitation crises or a total loss of drinkable water.
+ 
 # April 20th, 2026
