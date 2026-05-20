@@ -166,3 +166,6 @@ No I do not think modern space technology is reliable enough for long missions l
  
 # April 20th, 2026
 The rise of AI in music and media significantly changes the way people interact with the content and their trust of the content. Before the rise of AI someone could watch a funny video and scroll past without question; however, now in 2026 AI can use the likeness of a popular figure to create a meme. This development makes it so that people are always asking "Is this AI?". AI can be used to influence people like a human could as it is good at impersonating someone. For this reason I believe there should be strict limits on the usage of AI. 
+
+# April 27, 2026
+One thing I payed attention to this week was the movie Zola. This movie was based on a 148 tweet thread created back in 2015. I heard of the movie through clips of it being posted on tiktok. This movie was influenced by technology through social media. If twitter never existed, we probably would've never heard of the story. I also wouldn't have watched the movie if I didn't see so much about it.
