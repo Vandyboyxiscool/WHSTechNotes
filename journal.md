@@ -169,3 +169,11 @@ The rise of AI in music and media significantly changes the way people interact 
 
 # April 27, 2026
 One thing I payed attention to this week was the movie Zola. This movie was based on a 148 tweet thread created back in 2015. I heard of the movie through clips of it being posted on tiktok. This movie was influenced by technology through social media. If twitter never existed, we probably would've never heard of the story. I also wouldn't have watched the movie if I didn't see so much about it.
+
+# May 6, 2026
+
+# May 11, 2026
+One area I definitely improved in this year was confidence. Previously, I let myself be afriad to try new things, or fail. I realize that if you are passionate about something no matter what your experience level is, you will excel. I experienced this with theatre as I did my first show without and prior experience and landed my frist lead role, and two major supporting roles. I found the confidence to audition and now I know I am a natural actor.
+
+# May 18, 2026
+
