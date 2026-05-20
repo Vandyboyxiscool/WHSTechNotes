@@ -176,4 +176,4 @@ I am personally helping train AI systems through the apps and tools you use. Spe
 One area I definitely improved in this year was confidence. Previously, I let myself be afriad to try new things, or fail. I realize that if you are passionate about something no matter what your experience level is, you will excel. I experienced this with theatre as I did my first show without and prior experience and landed my frist lead role, and two major supporting roles. I found the confidence to audition and now I know I am a natural actor.
 
 # May 18, 2026
-
+If I had to describe Kioko to the cops, I would say they are the kind of person who is always moving fast with purpose, and is focused on something. They typically wear baggy clothes, and has dyed hair with an undercut. Their personality is filled with dry humor and jokes. They could probably be found at home or at a gym. One thing memorable about them is their unique sense of style that would be described as edgy.
